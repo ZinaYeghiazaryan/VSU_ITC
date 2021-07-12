@@ -9,3 +9,7 @@ Then you need to run the program.
 4.Test cases - Functional testing, compatibility testing
 5.References - king, queen, rooks, bishops, knights, pawns, chackmate
 6.Contributors - Zina Yeghiazaryan
+
+
+
+BZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
