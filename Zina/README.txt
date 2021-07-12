@@ -11,4 +11,4 @@ Then you need to run the program.
 6.Contributors - Zina Yeghiazaryan
 
 
-Bzz
+Bzzzz
