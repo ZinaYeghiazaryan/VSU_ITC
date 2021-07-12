@@ -10,5 +10,5 @@ Then you need to run the program.
 5.References - king, queen, rooks, bishops, knights, pawns, chackmate
 6.Contributors - Zina Yeghiazaryan
 
-gchgchch
+gchgc
 Bzzzz
